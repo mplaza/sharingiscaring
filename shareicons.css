@@ -1,0 +1,28 @@
+#social-share{
+	height:100px;
+	width:30px;
+	position: fixed;
+	top: 40%;
+	margin-left: 2px;
+}
+
+.social-component{
+	margin-left:2px;
+	margin-top: 15px;
+}
+
+#fb-custom-share{
+	cursor: pointer;
+	color: #3B5998;
+}
+
+#twitter-custom-share{
+	cursor: pointer;
+	color: #55ACEE;
+}
+
+.custom-social-icon{
+	position: relative;
+	font-size: 20px;
+	margin-top: 10px;
+}
